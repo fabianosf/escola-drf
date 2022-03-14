@@ -30,7 +30,7 @@ urlpatterns = [
 ]
 
 '''
-V1
+V1(comentario de funcionamento)
 # api/v1/cursos - lista e cria curso(lista todos e cria um curso)
 # /api/v1/cursos/pk - pega um curso(get,update, delete)
 # /api/v1/cursos/pk/avaliacoes - pega todas as avaliacoes daquele curso com pk X
